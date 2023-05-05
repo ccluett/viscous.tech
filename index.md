@@ -1,12 +1,10 @@
 ---
-title: Home
+title: Viscous Technologies
 layout: default
 ---
 
-## intro
-I'm a naval architect and mechanical engineer at Woods Hole Oceanographic Institution. My experience is in the design, analysis, simulation and fabrication of underwater vehicles, surface vessels and hydro-mechanical systems. Areas of interest include UUVs, mechanical systems, hydrodynamics, electric propulsion, underwater vehicle dynamics, computational fluid dynamics and product design.
-
-I enjoy the creative process of design and fabrication. To me, naval architecture offers the ability to blend scientific principles and aesthetic elements into elegant designs.
+## viscous technologies
+Viscous Technologies provides design, analysis and consulting services for hydro-mechanical systems and vehicles.
 
 {% include figure.html img="Picture1.png" width="100%" %}
 
