@@ -22,4 +22,4 @@ Viscous Technologies provides design, analysis and consulting services for subse
 {% include figure.html img="Propeller-streamlines-2.JPG" width="100%" %}
 
 ---------
-<p style="text-align: center;">Copyright © 2022 Christopher Cluett. All Rights Reserved.</p>
+<p style="text-align: center;">Copyright © 2022 Viscous Technologies. All Rights Reserved.</p>
