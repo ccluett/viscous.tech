@@ -3,7 +3,6 @@ title: Viscous Technologies
 layout: default
 ---
 
-## viscous technologies
 Viscous Technologies provides design, analysis and consulting services for subsea applications, underwater vehicles, surface vessels and hydro-mechanical systems. 
 
 {% include figure.html img="Picture1.png" width="100%" %}
