@@ -3,6 +3,8 @@ title: about
 nav: about
 ---
 
+Viscous Technologies is owned by Christopher Cluett. Chris is a naval architect naval architect and mechanical engineer at Woods Hole Oceanographic Institution. Chris' experience is in the design, analysis, simulation and fabrication of underwater vehicles, surface vessels and hydro-mechanical systems. Areas of interest previous work include UUVs, mechanical systems, hydrodynamics, electric propulsion systems, underwater vehicle dynamics, computational fluid dynamics and product/industrial design.
+
 ## education
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
 University of Michigan - Ann Arbor, MI
