@@ -9,7 +9,6 @@ There are two main components of drag when an underwater vehicle moves through t
 
 Viscous Technologies provides design, analysis and consulting services for subsea applications, underwater vehicles, surface vessels and hydro-mechanical systems. 
 
-## expertise
 * Surface vessel and subsea vehicle design, analysis, and testing
 * Design and fabrication of metal, plastic and composite structures for surface and subsea environments
 * Electric powertrain design and analysis for marine vehicles
