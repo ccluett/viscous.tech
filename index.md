@@ -3,7 +3,7 @@ title: Viscous Technologies
 layout: default
 ---
 
-There are two main components of drag when an underwater vehicle moves through the water: pressure drag and viscous drag. When a body is streamlined, total drag is dominated by viscous drag. When a body is bluff, total drag is dominated by pressure drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body. Viscous Technologies provides innovative engineering solutions to hydrodynamic problems.
+There are two main components of drag when an underwater vehicle moves through the water: pressure drag and viscous drag. When a body is streamlined, total drag is dominated by viscous drag. When a body is bluff, total drag is dominated by pressure drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body. Viscous Technologies provides performance based innovative engineering solutions to hydrodynamic problems.
 
 Viscous Technologies provides design, analysis and consulting services for subsea applications, underwater vehicles, surface vessels and hydro-mechanical systems. 
 
