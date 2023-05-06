@@ -3,10 +3,9 @@ title: Viscous Technologies
 layout: default
 ---
 
+Viscous Technologies provides innovative and performance-driven engineering solutions, specializing in the design, analysis, and consulting services for underwater vehicles, surface vessels, hydro-mechanical systems, and subsea applications. 
 
 {% include figure.html img="Picture1.png" width="100%" %}
-
-Viscous Technologies provides innovative and performance-driven engineering solutions, specializing in the design, analysis, and consulting services for underwater vehicles, surface vessels, hydro-mechanical systems, and subsea applications. 
 
 Our range of expertise includes:
 
@@ -20,7 +19,7 @@ Our range of expertise includes:
 * Reynolds-averaged Navier-Stokes computational fluid dynamics (RANS CFD) modeling
 * 6 degrees-of-freedom (6DOF) dynamic modeling of UUVs
 
-Our name is derived one of the two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body.
+Our name is derived from one of the two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body.
 
 {% include figure.html img="Propeller-streamlines-2.JPG" width="100%" %}
 
