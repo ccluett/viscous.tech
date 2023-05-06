@@ -26,4 +26,4 @@ Our name is derived from one of the two main components of drag an underwater ve
 
 
 ---------
-<p style="text-align: center;">Copyright © 2022 Viscous Technologies. All Rights Reserved.</p>
+<p style="text-align: center;">Copyright © 2023 Viscous Technologies. All Rights Reserved.</p>
