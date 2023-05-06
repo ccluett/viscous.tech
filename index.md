@@ -19,9 +19,11 @@ Our range of expertise includes:
 * Reynolds-averaged Navier-Stokes computational fluid dynamics (RANS CFD) modeling
 * 6 degrees-of-freedom (6DOF) dynamic modeling of UUVs
 
-Our name is derived from one of the two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body.
 
 {% include figure.html img="Picture1.png" width="100%" %}
+
+There are two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body.
+
 
 
 
