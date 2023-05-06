@@ -3,21 +3,24 @@ title: Viscous Technologies
 layout: default
 ---
 
+
 {% include figure.html img="Picture1.png" width="100%" %}
 
-There are two main components of drag when an underwater vehicle moves through the water: pressure drag and viscous drag. When a body is streamlined, total drag is dominated by viscous drag. When a body is bluff, total drag is dominated by pressure drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body. Viscous Technologies develops performance based innovative engineering solutions to hydrodynamic problems.
+Viscous Technologies provides innovative and performance-driven engineering solutions, specializing in the design, analysis, and consulting services for underwater vehicles, surface vessels, hydro-mechanical systems, and subsea applications. 
 
-Viscous Technologies provides design, analysis and consulting services for subsea applications, underwater vehicles, surface vessels and hydro-mechanical systems. 
+Our range of expertise includes:
 
-* Surface vessel and subsea vehicle design, analysis, and testing
-* Design and fabrication of metal, plastic and composite structures for surface and subsea environments
-* Electric powertrain design and analysis for marine vehicles
-* Hydrodynamics of UUVs
-* Solid and surface modeling
-* Linear and non-linear FEA
-* RANS CFD modeling
-* 6DOF dynamic modeling of UUVs
-* Tow tank testing and data acquisition
+* Surface vessel and subsea vehicle design and analysis
+* Field support, at sea testing, tow tank testing, and data acquisition
+* Design and fabrication of metal, plastic, and composite structures for surface and subsea environments
+* Solid and surface CAD modeling
+* Electric powertrain design
+* Hydrodynamics of underwater vehicles
+* Linear and non-linear finite element analysis (FEA)
+* Reynolds-averaged Navier-Stokes computational fluid dynamics (RANS CFD) modeling
+* 6 degrees-of-freedom (6DOF) dynamic modeling of UUVs
+
+Our name is derived one of the two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body.
 
 {% include figure.html img="Propeller-streamlines-2.JPG" width="100%" %}
 
