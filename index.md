@@ -20,7 +20,7 @@ Our range of expertise includes:
 * 6 degrees-of-freedom (6DOF) dynamic modeling of UUVs
 
 
-{% include figure.html img="Picture1.png" width="100%" %}
+{% include figure.html img="Picture1.png" width="100%" caption="There are two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body." %}
 
 There are two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body.
 
