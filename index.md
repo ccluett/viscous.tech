@@ -3,9 +3,11 @@ title: Viscous Technologies
 layout: default
 ---
 
-{% include figure.html img="Picture1.png" width="100%" %}
+{% include figure.html img="IMG-4831.jpg" width="100%" %}
 
 Viscous Technologies provides innovative and performance-driven engineering solutions, specializing in the design, analysis, and consulting services for underwater vehicles, surface vessels, hydro-mechanical systems, and subsea applications. 
+
+{% include figure.html img="Picture1.png" width="100%" %}
 
 Our range of expertise includes:
 
