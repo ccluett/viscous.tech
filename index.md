@@ -1,13 +1,11 @@
 ---
-title: Viscous Technologies
+title: Home
 layout: default
 ---
 
-{% include figure.html img="IMG-4831.jpg" width="100%" %}
+{% include figure.html img="IMG-4831.jpg" width="25%" %}
 
 Viscous Technologies provides innovative and performance-driven engineering solutions, specializing in the design, analysis, and consulting services for underwater vehicles, surface vessels, hydro-mechanical systems, and subsea applications. 
-
-{% include figure.html img="Picture1.png" width="100%" %}
 
 Our range of expertise includes:
 
@@ -23,7 +21,9 @@ Our range of expertise includes:
 
 Our name is derived from one of the two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body.
 
-{% include figure.html img="Propeller-streamlines-2.JPG" width="100%" %}
+{% include figure.html img="Picture1.png" width="100%" %}
+
+
 
 ---------
 <p style="text-align: center;">Copyright © 2022 Viscous Technologies. All Rights Reserved.</p>
