@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-{% include figure.html img="logo-neon-2.JPG" width="100%" %}
+{% include figure.html img="IMG-6046-logo.jpg" width="80%" %}
 
 
 ---------
