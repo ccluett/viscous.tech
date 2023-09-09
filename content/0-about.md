@@ -19,7 +19,7 @@ Our range of expertise includes:
 
 {% include figure.html img="Picture1.png" width="100%" caption="There are two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body." %}
 
-<br>
+---------
 
 Viscous Technologies is owned by Christopher Cluett. Chris is a naval architect and mechanical engineer at Woods Hole Oceanographic Institution. Chris' experience is in the design, analysis, simulation and fabrication of underwater vehicles, surface vessels and hydro-mechanical systems. Areas of interest and previous work include UUVs, mechanical systems, hydrodynamics, electric propulsion systems, underwater vehicle dynamics, computational fluid dynamics and product/industrial design.
 
