@@ -1,5 +1,5 @@
 ---
-title: vision
+title: Vision
 nav: true
 ---
 
