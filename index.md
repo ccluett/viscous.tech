@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-{% include figure.html img="IMG-6046-logo.jpg" width="80%" %}
+{% include figure.html img="viscous-tech-cover.JPG" width="100%" %}
 
 
 ---------
