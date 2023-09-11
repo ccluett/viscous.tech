@@ -1,6 +1,6 @@
 ---
-title: contact
-nav: false
+title: vision
+nav: true
 ---
 
-see see l you e tee tee @ google mail dot com
+{% include figure.html img="vision.JPG" width="100%" %}
