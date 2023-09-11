@@ -1,5 +1,5 @@
 ---
-title: approach
+title: Approach
 nav: true
 ---
 
