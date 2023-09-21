@@ -3,7 +3,7 @@ title: Mission
 nav: true
 ---
 
-## Mission
+# Mission
 
 Our mission is to decarbonize marine transport and have a global impact on greenhouse gas emission reduction by building sustainable technologies. We want to be at the forefront of innovative engineering for clean energy solutions, coalescing a group of talented, multi-disciplinary engineers to work on the world’s most pressing problems. Our mission may be ambitious, but confronting existential crises demands audacious solutions. By using a first principles approach and creating strategic partnerships, we believe we can develop large-scale carbon reduction solutions in a pragmatic way.
 
