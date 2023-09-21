@@ -13,5 +13,5 @@ We intend to use the engineering talent our company was founded upon to apply a 
 
 **Strategy**
 
-Our strategy is to first develop demonstrator solutions for the maritime industry while simultaneously developing industry partners who recognize the need to reduce their carbon emissions. By forming industry partnerships, a direct pathway develops to impact an existing market with sustainable technologies. From the start we plan to engage regulatory bodies to helpful inform and be part of the discourse with regards to decarbonization strategy and policy.
+Our strategy is to first develop demonstrator solutions for the maritime industry while simultaneously developing industry partners who recognize the need to reduce their carbon emissions. By forming industry partnerships, a direct pathway develops to impact an existing market with sustainable technologies. We intend to engage regulatory bodies and policymakers, and inject ourselves into the discourse on maritime decarbonization strategy and policy.
 
