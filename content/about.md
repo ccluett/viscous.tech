@@ -1,5 +1,5 @@
 ---
-title: Mission
+title: About
 nav: true
 ---
 
