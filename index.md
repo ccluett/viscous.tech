@@ -3,8 +3,10 @@ title: Home
 layout: default
 ---
 
-{% include figure.html img="viscous-tech-cover.JPG" width="100%" %}
+{% include figure.html img="logo-text.JPG" width="100%" %}
 
+
+{% include figure.html img="primary-logo.JPG" width="80%" %}
 
 ---------
 <p style="text-align: center;">Copyright © 2023 Viscous Technologies, LLC. All Rights Reserved.</p>
