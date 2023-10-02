@@ -9,4 +9,7 @@ layout: default
 
 ---------
 <p style="text-align: center;">Copyright © 2023 Viscous Technologies, LLC. All Rights Reserved.</p>
+
+<!--- 
 {% include figure.html img="primary-logo.jpg" width="20%" %}
+-->
