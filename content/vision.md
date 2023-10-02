@@ -1,6 +1,6 @@
 ---
 title: Vision
-nav: true
+nav: false
 ---
 {% include figure.html img="approach.JPG" width="100%" %}
 
