@@ -1,6 +1,6 @@
 ---
 title: tech
-nav: false
+nav: true
 ---
 
 ------
