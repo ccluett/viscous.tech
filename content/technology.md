@@ -10,7 +10,7 @@ Autonomous Surface Craft with Advanced Foil Electric Propulsion System
 
 ------
 
- Foil-Assit Motion Stability Technology (FAST)
+ Foil-Assited Seakeeping Technology (FAST)
 
 {% include figure.html img="partial-lifting-foils.jpg" width="100%" %}
 
