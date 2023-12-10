@@ -3,25 +3,7 @@ title: about
 nav: false
 ---
 
-Viscous Technologies provides innovative and performance-driven engineering solutions, specializing in the design, analysis, and consulting services for underwater vehicles, surface vessels, hydro-mechanical systems, and subsea applications. 
-
-Our range of expertise includes:
-
-* Surface vessel and subsea vehicle design and analysis
-* Field support, at sea testing, tow tank testing, and data acquisition
-* Design and fabrication of metal, plastic, and composite structures for surface and subsea environments
-* Solid and surface CAD modeling
-* Electric powertrain design
-* Hydrodynamics of underwater vehicles
-* Linear and non-linear finite element analysis (FEA)
-* Reynolds-averaged Navier-Stokes computational fluid dynamics (RANS CFD) modeling
-* 6 degrees-of-freedom (6DOF) dynamic modeling of UUVs
-
-{% include figure.html img="Picture1.png" width="100%" caption="There are two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body." %}
-
----------
-
-Viscous Technologies is owned by Christopher Cluett. Chris is a naval architect and mechanical engineer at Woods Hole Oceanographic Institution. Chris' experience is in the design, analysis, simulation and fabrication of underwater vehicles, surface vessels and hydro-mechanical systems. Areas of interest and previous work include UUVs, mechanical systems, hydrodynamics, electric propulsion systems, underwater vehicle dynamics, computational fluid dynamics and product/industrial design.
+Viscous Technologies was founded to research and develop innovative and impactful technologies for the maritime industry. Chris Cluett is naval architect and mechanical engineer, with experience is in the design, analysis, simulation and fabrication of underwater vehicles, surface vessels and hydro-mechanical systems. 
 
 ## education
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
@@ -43,3 +25,19 @@ Naval Architect (2012-2013)\
 <br>
 {% include figure.html img="img_312438.jpg" width="100%" %}
 
+<!--- 
+Viscous Technologies provides innovative and performance-driven engineering solutions, specializing in the design, analysis, and consulting services for underwater vehicles, surface vessels, hydro-mechanical systems, and subsea applications. 
+
+Our range of expertise includes:
+
+* Surface vessel and subsea vehicle design and analysis
+* Field support, at sea testing, tow tank testing, and data acquisition
+* Design and fabrication of metal, plastic, and composite structures for surface and subsea environments
+* Solid and surface CAD modeling
+* Electric powertrain design
+* Hydrodynamics of underwater vehicles
+* Linear and non-linear finite element analysis (FEA)
+* Reynolds-averaged Navier-Stokes computational fluid dynamics (RANS CFD) modeling
+* 6 degrees-of-freedom (6DOF) dynamic modeling of UUVs
+
+{% include figure.html img="Picture1.png" width="100%" caption="There are two main components of drag an underwater vehicle experiences as it moves through the water: pressure drag and viscous drag. When a body is bluff, total drag is dominated by pressure drag. When a body is streamlined, total drag is dominated by viscous drag. For an equal frontal area, a streamlined body will always have less drag than a bluff body." %}
