@@ -3,8 +3,6 @@ title: technology
 nav: true
 ---
 
-------
-
 Autonomous Surface Craft with Advanced Foil Electric Propulsion System
 
 {% include figure.html img="boat-render-4.jpg" width="100%" %}
