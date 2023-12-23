@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-{% include figure.html img="logo-text-3.JPG" width="80%" %}
+{% include figure.html img="logo-text-3.JPG" width="100%" %}
 
 {% include figure.html img="boat-render-4.jpg" width="100%" %}
 
