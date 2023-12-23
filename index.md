@@ -4,7 +4,6 @@ layout: default
 ---
 
 {% include figure.html img="logo-text-3.JPG" width="100%" %}
-
 {% include figure.html img="ULRAUV-render-1.jpg" width="100%" %}
 
 ---------
