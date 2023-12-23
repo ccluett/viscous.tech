@@ -9,7 +9,7 @@ Viscous Technologies was founded by Chris Cluett to develop innovative solutions
 [Senior Naval Architect & Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/) (2019-Present)\
 Oceanographic Systems Lab, Woods Hole Oceanographic Institution - Woods Hole, MA
   
-Senior Naval Architect and Mechanical Engineer (2017-2019)\
+Senior Naval Architect & Mechanical Engineer (2017-2019)\
 Navatek LLC - South Kingstown, RI
   
 Naval Architect (2013-2017)\
