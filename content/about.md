@@ -3,7 +3,7 @@ title: about
 nav: false
 ---
 
-Viscous Technologies was founded by Chris Cluett to develop innovative solutions and impactful technologies for the maritime industry. Chris is naval architect and mechanical engineer, with experience designing and fabricating underwater vehicles, surface vessels and hydro-mechanical systems. 
+Viscous Technologies was founded by Chris Cluett to develop innovative solutions and impactful technologies for the maritime industry. Chris is a professional naval architect and mechanical engineer, with experience designing and fabricating autonomous underwater vehicles (AUVs), surface vessels and hydro-mechanical systems. 
 
 ## experience
 [Senior Naval Architect & Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/) (2019-Present)\
