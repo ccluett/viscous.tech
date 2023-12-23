@@ -12,7 +12,7 @@ Oceanographic Systems Lab, Woods Hole Oceanographic Institution - Woods Hole, MA
 Senior Naval Architect & Mechanical Engineer (2017-2019)\
 Navatek LLC - South Kingstown, RI
   
-Naval Architect (2013-2017)\
+Naval Architect & Marine Engineer (2013-2017)\
 Bristol Harbor Group, Inc. - Bristol, RI
   
 Naval Architect (2012-2013)\
