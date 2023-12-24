@@ -3,7 +3,7 @@ title: technology
 nav: true
 ---
 
-Autonomous Surface Vehicle (ASV) with Distributed Electric Efficient Propulsion (DEEP)
+Distributed ElEctric Propulsion (DEEP)
 
 {% include figure.html img="boat-render-4.jpg" width="100%" %}
 
