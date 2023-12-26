@@ -3,7 +3,7 @@ title: technology
 nav: true
 ---
 
-Distributed El*e*ctric Propulsion (DEEP)
+Distributed *e*l*e*ctric propulsion (D*ee*p)
 
 {% include figure.html img="boat-render-4.jpg" width="100%" %}
 
