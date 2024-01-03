@@ -1,6 +1,6 @@
 ---
 title: technology
-nav: true
+nav: false
 ---
 
 Distributed *e*l*e*ctric propulsion (D*ee*p)
