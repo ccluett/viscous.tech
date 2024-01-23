@@ -4,7 +4,7 @@ layout: default
 ---
 
 {% include figure.html img="logo-text-3.JPG" width="100%" %}
-{% include figure.html img="render-9-shark.jpg" width="100%" %}
+{% include figure.html img="render-12-shark.jpg" width="100%" %}
 
 ---------
 <p style="text-align: center;">Copyright © 2024 Viscous Technologies, LLC. All Rights Reserved.</p>
