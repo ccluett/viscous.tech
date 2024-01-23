@@ -5,25 +5,23 @@ nav: true
 
 Viscous Technologies was founded by Chris Cluett to develop innovative solutions and impactful technologies for the maritime industry. Chris is a professional naval architect and mechanical engineer, with experience designing and fabricating autonomous underwater vehicles (AUVs), surface vessels and hydro-mechanical systems. 
 
+<br>
+{% include figure.html img="img_312438.jpg" width="100%" %}
+
 ## experience
-[Senior Naval Architect & Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/) (2019-Present)\
-Oceanographic Systems Lab, Woods Hole Oceanographic Institution - Woods Hole, MA
+[Senior Naval Architect & Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/) - Woods Hole Oceanographic Institution, Woods Hole, MA
   
-Senior Naval Architect & Mechanical Engineer (2017-2019)\
-Navatek LLC - South Kingstown, RI
+Senior Naval Architect & Mechanical Engineer - Navatek LLC, South Kingstown, RI
   
-Naval Architect & Marine Engineer (2013-2017)\
-Bristol Harbor Group, Inc. - Bristol, RI
+Naval Architect & Marine Engineer - Bristol Harbor Group, Inc., Bristol, RI
   
-Naval Architect (2012-2013)\
-General Dynamics Electric Boat - Groton, CT  
+Naval Architect - General Dynamics Electric Boat, Groton, CT  
 
 ## education
 B.S.E., Naval Architecture & Marine Engineering\
 University of Michigan - Ann Arbor, MI
   
-<br>
-{% include figure.html img="img_312438.jpg" width="100%" %}
+
 
 <!--- 
 Viscous Technologies provides innovative and performance-driven engineering solutions, specializing in the design, analysis, and consulting services for underwater vehicles, surface vessels, hydro-mechanical systems, and subsea applications. 
