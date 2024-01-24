@@ -17,7 +17,7 @@ Naval Architect & Marine Engineer - Bristol Harbor Group, Inc., Bristol, RI
 Naval Architect - General Dynamics Electric Boat, Groton, CT  
 
 ## education
-B.S., Naval Architecture & Marine Engineering\
+B.S.E., Naval Architecture & Marine Engineering\
 University of Michigan - Ann Arbor, MI
   
 
