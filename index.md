@@ -7,7 +7,7 @@ layout: default
 {% include figure.html img="cormorant-1a.png" width="100%" %}
 
 ---------
-<p style="text-align: center;">Copyright © 2024 Viscous Technologies, LLC. All Rights Reserved.</p>
+<p style="text-align: center;">Copyright © 2024 Christopher Cluett. All Rights Reserved.</p>
 
 <!--- 
 {% include figure.html img="primary-logo.jpg" width="20%" %}
