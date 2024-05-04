@@ -3,7 +3,7 @@ title: viscous technologies
 layout: default
 ---
 
-{% include figure.html img="logo-text-3.JPG" width="100%" %}
+{% include figure.html img="viscous-tech-1.JPG" width="100%" %}
 {% include figure.html img="cormorant-1a.png" width="100%" %}
 
 ---------
