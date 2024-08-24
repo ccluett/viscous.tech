@@ -31,11 +31,11 @@ body {
 	position: absolute;
 	top:-200px;
 	left:0px;
-	color:white;
-	border-right:1px solid white;
-	border-bottom:1px solid white;
+	color:black;
+	border-right:1px solid black;
+	border-bottom:1px solid black;
 	border-bottom-right-radius:8px;
-	background:#BF1722;
+	background:#000000;
 	-webkit-transition: top 1s ease-out;
     transition: top 1s ease-out;
     z-index: 100;
@@ -63,18 +63,18 @@ footer {
     @if variable-exists(top-border) { border-top: solid 1px $top-border; }
     @if variable-exists(nav-pills) { .nav-pills .nav-link.active { background-color: $nav-pills; } }
     .nav-link { 
-        color: rgba(0,0,0,0);
+        color: rgba(0,0,0);
         &.active { 
             text-decoration: underline;
-            color: rgba(0,0,0,0);
+            color: rgba(0,0,0);
         }
         &:hover {
-            color: rgba(0,0,0,0);
+            color: rgba(0,0,0);
         }
     }
 }
 #footer-title {
-    a { color: rgba(0,0,0,0); }
+    a { color: rgba(0,0,0); }
 }
 
 /* feature include tweaks */
@@ -96,8 +96,8 @@ footer {
 
 /* code blocks */
 div.highlighter-rouge {
-    background-color: #f8f8f8;
-    border: 1px solid #ddd;
+    background-color: #000000;
+    border: 1px solid #000000;
     margin-bottom: 1.5rem;
     margin-top: 1.5rem;
     overflow: auto;
