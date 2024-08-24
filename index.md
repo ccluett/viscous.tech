@@ -3,7 +3,7 @@ title: viscous technologies
 layout: default
 ---
 
-{% include figure.html img="viscous-tech-waterworks.png" width="100%" %}
+{% include figure.html img="viscous-logo.png" width="100%" %}
 
 Viscous Technologies, a project of [waterworks labs llc](https://waterworkslabs.com), is developing innovative flow control technology for underwater vehicles to enhance performance and efficiency.
 
