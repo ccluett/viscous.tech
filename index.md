@@ -10,8 +10,7 @@ Viscous Technologies, a project of [waterworks labs llc](https://waterworkslabs.
 {% include figure.html img="4knots,100rpm_1.JPG" width="100%" %}
 
 ---------
-<p style="text-align: center;">Copyright © 2024 Waterworks Labs LLC. All Rights Reserved.</p>
-<p style="text-align: center;">Viscous Technologies is a DBA of Waterworks Labs LLC.</p>
+<p style="text-align: center;">Viscous Technologies is a DBA of Waterworks Labs LLC. Copyright © 2024 Waterworks Labs LLC. All Rights Reserved.</p>
 
 <!--- 
 {% include figure.html img="primary-logo.jpg" width="20%" %}
