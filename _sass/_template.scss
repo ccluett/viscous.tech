@@ -63,18 +63,18 @@ footer {
     @if variable-exists(top-border) { border-top: solid 1px $top-border; }
     @if variable-exists(nav-pills) { .nav-pills .nav-link.active { background-color: $nav-pills; } }
     .nav-link { 
-        color: rgba(0,0,0);
+        color: black;
         &.active { 
             text-decoration: underline;
-            color: rgba(0,0,0);
+            color: black;
         }
         &:hover {
-            color: rgba(0,0,0);
+            color: black;
         }
     }
 }
 #footer-title {
-    a { color: rgba(0,0,0); }
+    a { color: black; }
 }
 
 /* feature include tweaks */
